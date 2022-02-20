@@ -1,5 +1,6 @@
 #!/bin/bash
 <<<<<<< HEAD
+<<<<<<< HEAD
 echo "ALX School is so cool!"
 =======
 <<<<<<< HEAD
@@ -8,3 +9,8 @@ echo "ALX School"
 echo "ALX School is so cool!"
 >>>>>>> origin/master
 >>>>>>> AB-merge-branch
+=======
+
+echo "ALX School is so cool!"
+
+>>>>>>> 5b1a3b79c9e3085c3ff4c85d97d2f9743b4a94a4
